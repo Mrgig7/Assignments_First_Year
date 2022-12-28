@@ -5,6 +5,7 @@
 # x := 25
 # int x = 25
 # x << 25
+you have done a mistake ... take care!!!!
  
 # 02. In Python, a variable may be assigned a value of one type, and then later assigned a value of a different type:
 # False
